@@ -3,16 +3,16 @@
     <channel>
         <title><![CDATA[rojofotodesign]]></title>
         <description><![CDATA[rojofotodesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rojofotodesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 17:26:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 14 Oct 2015 17:31:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rojofotodesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3942bf5e-c4aa-4210-882e-232e0b346844.jpg">]]></description>
-            <link>undefined56cf2d72-3ba4-4a51-bef8-b48049225c5f/index.html</link>
+            <link>https://thegrid.ai/rojofotodesign/56cf2d72-3ba4-4a51-bef8-b48049225c5f/index.html</link>
             <guid isPermaLink="false">56cf2d72-3ba4-4a51-bef8-b48049225c5f</guid>
-            <pubDate>Wed, 14 Oct 2015 17:25:49 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2015 17:31:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
